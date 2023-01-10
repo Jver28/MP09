@@ -1,0 +1,84 @@
+*{
+    background-color: rgb(#C9D9FF);
+}
+
+body{
+    height: 75%;
+    background-color: rgb(223,223,255);
+    margin-left: 20px;
+}
+
+.div1{
+    border: 2px solid black;
+    background-color: gray;
+    padding: 1vh;
+    width: 100px;
+}
+
+header,footer{
+    background-color: #DA4F7D;
+}
+
+.t1,.t2,.t3,.t4{
+    width: 95%;
+}
+.t1{
+    border: 2px solid #F904FF;
+}
+
+.t2{
+    padding: 1vh;
+    
+}
+
+.t3{
+    margin-top: 2px;
+    border-bottom: 2px solid #FA2429;
+}
+
+.t4{
+    border-top: 2px solid #CE1316;
+    border-right: 2px solid blue;
+    border-bottom: 2px solid #6EEF7E;
+}
+
+.cuadrado{
+    margin-left: 40px;
+    border: 2px solid #F904FF ;
+    border-right: double #F904FF;
+    margin-bottom: 40px;
+    width: 400px;
+}
+
+.texto{
+    margin-left: 10px; 
+}
+
+.d1,.d2,.d3,.d4,.d5,.d6,.d7,.d8{
+    width: 350px;
+    margin-left: 10px
+}
+.d1{
+    border: dotted 2px black;
+}
+.d2{
+    border: dashed 2px black;
+}
+.d3{
+    border: solid 2px black
+}
+.d4{
+    border: double 2px black;
+}
+.d5{
+    border: groove 2px #A8A8AE;
+}
+.d6{
+    border: ridge 2px #A8A8AE;
+}
+.d7{
+    border: inset 2px #A8A8AE;
+}
+.d8{
+    border: outset 2px #A8A8AE;
+}
