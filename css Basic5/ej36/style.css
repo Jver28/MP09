@@ -1,0 +1,40 @@
+body{
+    background-color: #DDDDDD;
+}
+
+#container{
+    background-color: #EEEEEE;
+    margin-left: 35%;
+    margin-right: 30%;
+}
+
+#cabecera{
+    background-color:#AABBAA;
+}
+
+#pie{
+    background-color:#AABBAA;
+    clear: both;
+}
+#contenido{
+    margin-left: 200px;
+}
+#menu{
+    float: left;
+}
+
+.secundario{
+    margin-left: -10%;
+    margin-right: 2%;
+    font: 1em/1.3 Arial, Helvetica, sans-serif; 
+}
+
+#img{
+    float: right;
+    padding: 1%;
+}
+
+.uls{
+    font-weight: bold;
+    text-decoration: underline dotted red;
+}
