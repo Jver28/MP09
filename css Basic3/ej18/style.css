@@ -1,0 +1,19 @@
+.pdf::before{
+    content: url("./img/PDF_file_icon.svg_24x24.png");
+}
+
+.word::before{
+    content: url("./img/word_24x24.png");
+}
+
+.txt::before{
+    content: url("./img/txt_1_24x24.png");
+}
+
+.mp3::before{
+    content: url("./img/mp3_24x24.png");
+}
+
+.img::before{
+    content: url("./img/img_24x24.png");
+}

@@ -1,0 +1,152 @@
+.texto{
+    color: blue;
+    font-weight: bold;
+    margin-right: 50px;
+}
+
+.spans{
+    border: 2px solid black;
+}
+
+td{
+    border: 2px solid black;
+}
+
+.x-1{
+    font-size: xx-small;
+}
+.x-2{
+    font-size: x-small;
+}
+.x-3{
+    font-size:small ;
+
+}
+.x-4{
+    font-size:medium;
+
+}
+.x-5{
+    font-size:large ;
+
+}
+.x-6{
+    font-size:x-large ;
+
+}
+.x-7{
+    font-size:xx-large ;
+
+}
+
+.em1{
+    font-size: 0.5em;
+}
+
+.em2{
+    font-size: 0.7em;
+}
+
+.em3{
+    font-size: 0.9em;
+}
+
+.em4{
+    font-size: 1em;
+}
+
+.em5{
+    font-size: 1.5em;
+}
+
+.em6{
+    font-size: 2em;
+}
+
+.em7{
+    font-size: 3em;
+}
+
+.p1{
+    font-size: 50%;
+}
+
+.p2{
+    font-size: 70%;
+}
+
+.p3{
+    font-size: 90%;
+}
+
+.p4{
+    font-size: 100%;
+}
+
+.p5{
+    font-size: 150%;
+}
+
+.p6{
+    font-size: 200%;
+}
+
+.p7{
+    font-size: 300%;
+}
+
+.px1{
+    font-size: 9px;
+}
+
+.px2{
+    font-size: 12px;
+}
+
+.px3{
+    font-size: 14px;
+}
+
+.px4{
+    font-size: 18px;
+}
+
+.px5{
+    font-size: 24px;
+}
+
+.px6{
+    font-size: 36px;
+}
+
+.px7{
+    font-size: 48px;
+}
+
+.pt1{
+    font-size: 9pt;
+}
+
+.pt2{
+    font-size: 12pt;
+}
+
+.pt3{
+    font-size: 14pt;
+}
+
+.pt4{
+    font-size: 18pt;
+}
+
+.pt5{
+    font-size: 24pt;
+}
+
+.pt6{
+    font-size: 36pt;
+}
+
+.pt7{
+    font-size: 48pt;
+}

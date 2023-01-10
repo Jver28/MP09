@@ -1,0 +1,42 @@
+.f1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: orange;
+}
+
+.f2{
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+
+.f3{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.f3_modif{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.f3_modif:first-letter{
+    text-transform: uppercase;
+}
+
+.f4{
+    color: blue;
+    background-color: yellow;
+    font-size: 12px;
+    margin: 5mm;
+}
+
+.f5{
+    line-height: 2em;
+    text-align: right;
+    width: 150px;
+}
+
+.f6{
+    letter-spacing: 1em;
+    word-spacing: 3em;
+}
