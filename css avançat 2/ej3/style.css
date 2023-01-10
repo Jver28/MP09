@@ -1,0 +1,8 @@
+::selection {
+    color: #fff;
+    background-color: #8167a9;
+}
+
+* {
+    cursor: url("happy.png"), auto;
+}

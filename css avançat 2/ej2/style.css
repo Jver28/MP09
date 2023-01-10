@@ -1,0 +1,39 @@
+.pagination{
+    display: flex;
+}
+
+.pagination>a{
+    text-decoration: none;
+    border-collapse: collapse;
+    border: 1px solid #E9E9E9;
+    width: 80px;
+    text-align: center;
+    line-height: 75px;
+    background-color: #f1f1f1;
+    font-size: 20px;
+    color: black;
+    box-shadow: 10px 5px 5px rgb(156, 145, 145);
+}
+
+.active{
+    background-color: #29BC34 !important;
+    color: white !important; 
+} 
+
+
+.pagination2 {
+    display: flex;
+}
+
+.pagination2 > a {
+    background-color: #f1f1f1;
+    width: 60px;
+    margin: 7px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    box-shadow: 4px 5px 5px rgb(156, 145, 145);
+    border-radius: 1000px;
+}
