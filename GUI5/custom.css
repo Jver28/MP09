@@ -1,0 +1,146 @@
+h2{
+    color:#A52B2A;
+    font-weight: bold;
+    text-decoration: underline;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.font1{
+font-family: 'Open Sans', sans-serif;
+}
+
+
+.font2{
+font-family: 'Alegreya', serif;
+}
+
+.font3{
+font-family: 'Roboto', sans-serif;
+}
+
+.font4{
+font-family: 'Anek Latin', sans-serif;
+}
+
+.font5{
+font-family: 'Montserrat', sans-serif;
+}
+
+.font6{
+font-family: 'Lato', sans-serif;
+}
+
+.font7{
+font-family: 'Poppins', sans-serif;
+}
+
+.font8{
+font-family: 'Oswald', sans-serif;
+}
+
+.font9{
+font-family: 'Raleway Dots', cursive;
+}
+
+.font10{
+font-family: 'Sofia Sans', sans-serif;
+}
+
+
+.fonts1{
+font-family: 'space-grotesk';
+}
+
+.fonts2{
+font-family: 'Geomanist';
+}
+
+.fonts3{
+font-family: 'Archia';
+}
+
+.fonts4{
+font-family: 'Jost';
+}
+
+.fonts5{
+font-family: 'Bonkers';
+}
+
+.fonts6{
+font-family: 'Miki';
+}
+
+.fonts7{
+font-family: 'Irina';
+}
+
+.fonts8{
+font-family: 'Messapia';
+}
+
+.fonts9{
+font-family: 'Emberly';
+}
+
+.fonts10{
+font-family: 'Public sans';
+}
+
+@font-face {
+    font-family: 'space-grotesk';
+    src: url(fonts/SpaceGrotesk-2.0.0/woff2/SpaceGrotesk[wght].woff2);
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    src: url(fonts/Geomanist-Regular&Italic/Webfont/Geomanist-Regular-Webfont/geomanist-regular-webfont.woff2);
+}
+
+@font-face {
+    font-family: 'Archia';
+    src: url(fonts/Archia_Regular/Archia\ Regular\ Desktop/woff2);
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url(fonts/Jost/Jost-200-ThinItalic.otf);
+}
+
+@font-face {
+    font-family: 'Bonkers';
+    src: url(fonts/Bonkers/Bonkers.otf);
+}
+
+@font-face {
+    font-family: 'Miki';
+    src: url(fonts/Miki/Kontrapunkt-Light.otf);
+}
+
+@font-face {
+    font-family: 'Irina';
+    src: url(fonts/InriaSerif/TTF/InriaSerif-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Messapia';
+    src: url(fonts/Messapia/web/ApfelGrotezk-Brukt.woff2);
+}
+
+@font-face {
+    font-family: 'Emberly';
+    src: url(fonts/Emberly-v1.3/emberly/TTF/Emberly-BlackCondensedItalic.ttf);
+}
+
+@font-face {
+    font-family: 'Public sans';
+    src: url(fonts/public_sans/PublicSans-Black.otf);
+}
